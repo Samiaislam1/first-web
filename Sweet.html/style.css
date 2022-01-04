@@ -12,7 +12,7 @@ h1{
     color:rgb(230, 92, 115);
 }
 .blue{
-    color:rgb(187, 27, 166);
+    color:rgb(187, 27, 147);
 }
 section{
     display:flex;
@@ -26,7 +26,7 @@ section{
 }
 .button{
     text-decoration: none;
-    background-color: rgb(161, 60, 126);
+    background-color: rgb(177, 111, 177);
     padding:10px 20px;
     border-radius: 9px;
 
@@ -34,6 +34,32 @@ section{
     color:rgb(156, 236, 7);
     font-weight: 400%;
 }
-.top{
+
+.go{
     background-image: url(3.jpg);
+}
+.bye{
+    background-image: url(3.jpg);
+    border:violet;
+}
+.you{
+    color: violet;
+}
+.hi{
+    width: 50%;
+    padding-right: 4%;
+    
+}.hi img{
+    width: 80%;
+    padding-left: 10%;
+}.see{
+    background-color: violet;
+    border-radius: 10%;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+.no{
+    color:rgb(204, 124, 204);
+}.oi{
+    color: rgb(73, 64, 196);
 }
