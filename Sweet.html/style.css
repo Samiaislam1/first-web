@@ -1,0 +1,39 @@
+body{
+    font-family;: 'Fira Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+.purple-color{ 
+    color: blueviolet;
+
+}.red{
+    color:rgb(230, 92, 115);
+}
+.blue{
+    color:rgb(187, 27, 166);
+}
+section{
+    display:flex;
+}
+.half{
+    width: 50%;
+    padding-left: 6%;
+}
+.half img{
+    width: 85%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(161, 60, 126);
+    padding:10px 20px;
+    border-radius: 9px;
+
+    font-weight: 700;
+    color:rgb(156, 236, 7);
+    font-weight: 400%;
+}
+.top{
+    background-image: url(3.jpg);
+}
